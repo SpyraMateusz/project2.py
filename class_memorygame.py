@@ -1,3 +1,4 @@
+import random
 class MemoryGame:
     # ... (pozostała część klasy)
 
